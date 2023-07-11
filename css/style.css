@@ -68,6 +68,7 @@ footer a {
     color:blue;
     display:flex;
     justify-content: center;
+    font-size: 30px;
 }
 
 footer a i:hover {
